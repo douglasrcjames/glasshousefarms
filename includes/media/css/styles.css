@@ -1,0 +1,263 @@
+
+
+
+/* 
+Site Colors
+ - Titles Green: hex #6CBD45
+ - Body text dark grey: hex #545454
+ - “Our Team” background: hex #F7F7F7
+*/
+
+/*/    APPLIES TO ALL   /*/
+
+@font-face {
+font-family: "AvenirNext";
+src: url(media/fonts/Univers/AvenirNext.ttc);
+}
+
+body {
+font-family: 'AvenirNext', serif; 
+font-weight: 400;
+}
+
+p {
+	color: black;
+	font-family: 'AvenirNext', serif; 
+	font-weight: 400;
+}
+
+h1,h2,h3,h4,h5 {
+	font-family: 'AvenirNext', serif; 
+	font-weight: 700;
+	color: black;
+}
+
+.content p {
+	font-size: 90%;
+	line-height: 1.5;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.footer {
+	text-align: center;
+}
+
+.footer a {
+	color: black;
+}
+
+/* Objects styling */
+
+.closebtn {
+	margin-left: 15px;
+	color: black;
+	font-weight: bold;
+	float: right;
+	font-size: 22px;
+	line-height: 15px;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.closebtn:hover {
+	color: white;
+}
+
+.center{
+	text-align: center;
+}
+.center_bottom_border{
+	text-align: center;
+	border-bottom: 1px dashed white;
+	padding-bottom: 1em;
+}
+.scale {
+	max-width: 100%;
+	height: auto;
+}
+
+.button {
+	background-color: #6CBD45;
+	color: black;
+	padding: 7.5px 16px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.checkbox {
+	font-size: 80%;
+}
+
+.text_box {
+	padding: 2px;
+	line-height: 25px;
+}
+/*/    END APPLIES TO ALL    /*/
+
+/*/    APPLIES TO SOME    /*/
+
+/*  For bigger screens (720px or more) */
+@media screen and (min-width:721px) {
+
+	.main {
+		height: absolute;
+		text-align: center;
+		padding-top: 1.5em;
+		padding-bottom: 1.5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		background-color: #6CBD45;
+
+	}
+
+	.content {
+		height: absolute;
+		text-align: left;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-left: 35%;
+		margin-right: 35%;
+	}
+
+	.center_logo{
+		display: block;
+		margin: auto;
+		width: 30%;
+		padding-top: 2em;
+		padding-bottom: 2em;
+	}
+
+	.notif {
+	font-size: 85%;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	margin-left: 5em;
+	margin-right: 5em;
+	padding: 10px;
+	background-color: #6CBD45;
+	color: black;
+	}
+
+	.alert {
+		font-size: 85%;
+		margin-bottom: 1em;
+		margin-top: 1em;
+		margin-left: 5em;
+		margin-right: 5em;
+		padding: 10px;
+		background-color: #FF724B;
+		color: black;
+	}
+}
+
+/*  For bigger screens (720px or less) */
+@media screen and (max-width:720px) {
+
+	/* Body elements */
+
+	.main {
+		height: absolute;
+		text-align: center;
+		padding-top: 1.5em;
+		padding-bottom: 1.5em;
+		padding-left: 1em;
+		padding-right: 1em;
+		background-color: #6acff6;
+
+	}
+
+	.content {
+		height: absolute;
+		text-align: left;
+		padding-top: 1em;
+		padding-bottom: 1em;
+		padding-left: 1em;
+		padding-right: 1em;
+		/*margin-left: 35%;
+		margin-right: 35%;*/
+	}
+
+	.center_logo{
+		display: block;
+		margin: auto;
+		/*width: 70%;*/
+		padding-top: 2em;
+		padding-bottom: 2em;
+	}
+	
+	.notif {
+	font-size: 85%;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	padding: 10px;
+	background-color: #6CBD45;
+	color: black;
+	}
+
+	.alert {
+		font-size: 85%;
+		margin-bottom: 1em;
+		margin-top: 1em;
+		margin-left: 1.5em;
+		margin-right: 1.5em;
+		padding: 10px;
+		background-color: #FF724B;
+		color: black;
+	}
+}
+/*/    END APPLIES TO SOME    /*/
+
+
+/*/    SOCIAL MEDIA BUTTONS   /*/
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+
+.fa-google {
+background: #dd4b39;
+color: white;
+}
+
+.fa-linkedin {
+background: #007bb5;
+color: white;
+}
+
+.fa-instagram {
+background: #125688;
+color: white;
+}
+/*
+.fa-reddit {
+background: #ff5700;
+color: white;
+}*/
+
+/*/    END SOCIAL MEDIA BUTTONS   /*/

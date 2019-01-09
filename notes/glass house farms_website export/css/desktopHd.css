@@ -1,0 +1,871 @@
+
+
+.desktop-hd {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 2488px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background          : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.desktop-hd .rectangle-copy2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2078px;
+  height              : 410px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .white-bar {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 2125px;
+  height              : 45px;
+  width               : 1079px;
+  position            : absolute;
+  margin              : 0;
+  left                : 841px;
+  border-radius       : 5px;
+}
+.desktop-hd .contact-us {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2131px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 853px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.38px;
+  line-height         : 33.0px;
+}
+.desktop-hd .location-image {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2125px;
+  height              : 205px;
+  width               : 265px;
+  position            : absolute;
+  margin              : 0;
+  left                : 519px;
+}
+.desktop-hd .address10-pinckney {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2348px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 518px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.19px;
+  line-height         : 25.0px;
+}
+.desktop-hd .name {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2191px;
+  height              : 45px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 841px;
+}
+.desktop-hd .name .name-box {
+  background          : rgba(255, 255, 255, 0.6);
+  top                 : 0px;
+  height              : 45px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+}
+.desktop-hd .name .name1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.13px;
+  line-height         : 16.0px;
+}
+.desktop-hd .message {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2251px;
+  height              : 159px;
+  width               : 569px;
+  position            : absolute;
+  margin              : 0;
+  left                : 841px;
+}
+.desktop-hd .message .message-box {
+  background          : rgba(255, 255, 255, 0.6);
+  top                 : 0px;
+  height              : 159px;
+  width               : 569px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+}
+.desktop-hd .message .message1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.13px;
+  line-height         : 16.0px;
+}
+.desktop-hd .email {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2191px;
+  height              : 45px;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+}
+.desktop-hd .email .email-box {
+  background          : rgba(255, 255, 255, 0.6);
+  top                 : 0px;
+  height              : 45px;
+  width               : 294px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 5px;
+}
+.desktop-hd .email .email1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.13px;
+  line-height         : 16.0px;
+}
+.desktop-hd .rectangle3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2426px;
+  height              : 26px;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 842px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.desktop-hd .send-message {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 2431px;
+  height              : auto;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 852px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.desktop-hd .background {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1536px;
+  height              : 542px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .rectangle4 {
+  background          : rgba(107, 189, 68, 1.0);
+  top                 : 1589px;
+  height              : 43px;
+  width               : 646px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+  border-radius       : 5px;
+}
+.desktop-hd .our-team {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1595px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 517px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.38px;
+  line-height         : 33.0px;
+}
+.desktop-hd .wayne-bishop {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1813px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 690px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.75px;
+  line-height         : 25.0px;
+}
+.desktop-hd .wayne-bio {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1873px;
+  height              : auto;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 632px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.desktop-hd .dividing-line {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1854px;
+  height              : 3px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 748px;
+}
+.desktop-hd .social-media-icons1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1957px;
+  height              : 30px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 708px;
+}
+.desktop-hd .social-media-icons1 .linkedinicon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+}
+.desktop-hd .social-media-icons1 .mailicon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+}
+.desktop-hd .social-media-icons1 .facebookicon {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .headshot {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1667px;
+  height              : 119px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 705px;
+}
+.desktop-hd .headshot .headshot1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 121px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .armando-suarez {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1813px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1081px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.75px;
+  line-height         : 25.0px;
+}
+.desktop-hd .lorem-ipsum-dolor-si-copy3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1873px;
+  height              : auto;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1040px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.desktop-hd .path3-copy {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1854px;
+  height              : 3px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1156px;
+}
+.desktop-hd .social-media-icons2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1957px;
+  height              : 30px;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1119px;
+}
+.desktop-hd .social-media-icons2 .linkedinicon1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+}
+.desktop-hd .social-media-icons2 .mailicon1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+}
+.desktop-hd .social-media-icons2 .facebookicon1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .headshot2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1667px;
+  height              : 119px;
+  width               : 121px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1115px;
+}
+.desktop-hd .headshot2 .headshot3 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 121px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .grn-rectangle {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1040px;
+  height              : 496px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .wht-bar {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 1093px;
+  height              : 43px;
+  width               : 669px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  border-radius       : 5px;
+}
+.desktop-hd .technology {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1099px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 520px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : 0.38px;
+  line-height         : 33.0px;
+}
+.desktop-hd .suniconwhite900px {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1188px;
+  height              : 99px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 606px;
+}
+.desktop-hd .sun-text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1328px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 542px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.desktop-hd .glassicon900px {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1186px;
+  height              : 99px;
+  width               : 99px;
+  position            : absolute;
+  margin              : 0;
+  left                : 922px;
+}
+.desktop-hd .glass-text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1328px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 856px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.desktop-hd .waterdropicon900x {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1187px;
+  height              : 102px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1234px;
+}
+.desktop-hd .water-text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 1328px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1170px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 16.0px;
+}
+.desktop-hd .background1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 589px;
+  height              : 451px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.desktop-hd .rectangle4-copy2 {
+  background          : rgba(107, 189, 68, 1.0);
+  top                 : 714px;
+  height              : 43px;
+  width               : 1091px;
+  position            : absolute;
+  margin              : 0;
+  left                : 833px;
+  border-radius       : 5px;
+}
+.desktop-hd .production {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 721px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 845px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.38px;
+  line-height         : 33.0px;
+}
+.desktop-hd .gh-long-rays-logo {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 587px;
+  height              : 448px;
+  width               : 1100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 402px;
+}
+.desktop-hd .production-text {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 763px;
+  height              : auto;
+  width               : 498px;
+  position            : absolute;
+  margin              : 0;
+  left                : 846px;
+  font-family         : "AvenirNext-Medium", Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.68px;
+  line-height         : 16.0px;
+}
+.desktop-hd .background2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 590px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.desktop-hd .c-ta {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 149px;
+  height              : 196px;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+}
+.desktop-hd .c-ta .step-into-our-house {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "AvenirNext-Bold", Helvetica, Arial, serif;
+  font-size           : 48.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 66.0px;
+}
+.desktop-hd .c-ta .take-a-look-inside-o {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 130px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  font-family         : "AvenirNext-DemiBoldItalic", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop-hd .c-ta .view-button {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 164px;
+  height              : 32px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+}
+.desktop-hd .c-ta .view-button .rectangle31 {
+  background          : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+}
+.desktop-hd .c-ta .view-button .label-view {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop-hd .c-ta .contact-button {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 164px;
+  height              : 32px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+}
+.desktop-hd .c-ta .contact-button .rectangle32 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 8px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+}
+.desktop-hd .c-ta .contact-button .contact {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  font-family         : "AvenirNext-DemiBold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.desktop-hd .bitmap {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 161px;
+  height              : 369px;
+  width               : 531px;
+  position            : absolute;
+  margin              : 0;
+  left                : 875px;
+}
+.desktop-hd .nav {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 25px;
+  width               : 530px;
+  position            : absolute;
+  margin              : 0;
+  left                : 902px;
+}
+.desktop-hd .nav .p-roduction1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktop-hd .nav .t-echnology1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktop-hd .nav .our-team1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktop-hd .nav .c-ontact1 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 440px;
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 25.0px;
+}
+.desktop-hd .path2 {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 100px;
+  height              : 4px;
+  width               : 1923px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  opacity             : 0.76;
+}
+.desktop-hd .horizontallogowhite1200px {
+  background          : rgba(255, 255, 255, 0.0);
+  top                 : 37px;
+  height              : 25px;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 486px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

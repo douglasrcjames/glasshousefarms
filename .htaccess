@@ -1,0 +1,4 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?glasshousefarms\.co
+RewriteRule ^(.*)$ https://www.glasshousefarms.co/$1 [R,L]

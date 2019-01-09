@@ -1,0 +1,4 @@
+[18-Apr-2018 00:26:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'douglasrcjames'@'localhost' (using password: YES) in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
+[18-Apr-2018 00:27:36 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ghf-doug'@'localhost' to database 'glasshousefarms' in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
+[18-Apr-2018 00:28:54 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ghf-doug'@'localhost' to database 'glasshousefarms' in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
+[18-Apr-2018 00:29:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ghf-doug'@'localhost' to database 'glasshousefarms' in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
