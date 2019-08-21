@@ -2,3 +2,15 @@
 [18-Apr-2018 00:27:36 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ghf-doug'@'localhost' to database 'glasshousefarms' in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
 [18-Apr-2018 00:28:54 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ghf-doug'@'localhost' to database 'glasshousefarms' in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
 [18-Apr-2018 00:29:06 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'ghf-doug'@'localhost' to database 'glasshousefarms' in /home/eid9leatbb4n/public_html/includes/db_connection.php on line 8
+[10-Jul-2019 03:59:26 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:27 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:27 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:28 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:28 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:29 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:29 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:30 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:31 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:31 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:32 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12
+[10-Jul-2019 03:59:32 UTC] PHP Notice:  Undefined index: message in /home/eid9leatbb4n/public_html/includes/process_email.php on line 12

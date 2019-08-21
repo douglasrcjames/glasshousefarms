@@ -241,9 +241,6 @@ a:active {
 				        <li>
 				            <img src="includes/media/images/slideshow/facility_5.jpg" alt="" uk-cover>
 				        </li>
-				        <li>
-				            <img src="includes/media/images/slideshow/GHF_lettuce_fairy.png" alt="" uk-cover>
-				        </li>
 				    </ul>
 				    <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
 		    		<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
@@ -255,7 +252,6 @@ a:active {
 				            <li uk-slideshow-item="2"><a href="#">Item 3</a></li>
 							<li uk-slideshow-item="3"><a href="#">Item 4</a></li>
 				            <li uk-slideshow-item="4"><a href="#">Item 5</a></li>
-				            <li uk-slideshow-item="5"><a href="#">Item 6</a></li>
 				        </ul>
 				    </div>
 				</div>
@@ -283,7 +279,6 @@ a:active {
                         {source: 'includes/media/images/slideshow/facility_3.jpg', caption: 'Our facility and workers'},
                         {source: 'includes/media/images/slideshow/facility_4.jpg', caption: 'Our large greenhouse facility'},
 						{source: 'includes/media/images/slideshow/facility_5.jpg', caption: 'Our large greenhouse facility'},
-						{source: 'includes/media/images/slideshow/GHF_lettuce_fairy.png', caption: 'Our Lettuce Fairy'},
                     ]
                 }).show();
             });
