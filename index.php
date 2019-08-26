@@ -5,7 +5,7 @@
 <head>
 	<title>Glass House Farms</title>
 	<meta charset="utf-8" >
-	<meta name="description" content="Glasshouse Farms - High end growing">
+	<meta name="description" content="Glass House Farms - High end growing">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="includes/media/css/styles.css" media="all" rel="stylesheet" type="text/css"/>
 	<link href="includes/media/css/uikit.css" media="all" rel="stylesheet" type="text/css"/>
