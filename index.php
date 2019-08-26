@@ -293,7 +293,26 @@ a:active {
 		</div>
 		<div>
 			<h2 name="production">Production</h2>
-		<p style="">At our facility in Ithaca, NY, Glass House Farms has the capacity to produce an estimated 500-750K heads of Bibb lettuce every year. In addition, we can also grow Basil, Pac Choi, Sylvetta, Arugula, and Kitazawa Arugula lettuce. With the goal of distributing our produce to big-box stores across the nation, we are ensuring the highest quality of lettuce growth by utilizing a glass greenhouse with an automated controlled environment and nutrient-filled watering tables to make sure our lettuce is happy and healthy. </p>
+			<p style="margin-bottom:-20px;">At our facility in Ithaca, NY, Glass House Farms has the capacity to produce an estimated 500-750K heads of Bibb lettuce every year. In addition, we can also grow Basil, Pac Choi, Sylvetta, Arugula, and Kitazawa Arugula lettuce. With the goal of distributing our produce to big-box stores across the nation, we are ensuring the highest quality of lettuce growth by utilizing a glass greenhouse with an automated controlled environment and nutrient-filled watering tables to make sure our lettuce is happy and healthy. </p>
+			
+			<h5>Certifications:</h5>
+			<div style="" class="uk-grid uk-child-width-expand@m" uk-grid>
+				<div class="uk-text-center">
+					<a href="https://www.ams.usda.gov/services/auditing/gap-ghp" style="cursor:pointer" target="_blank">
+						<img src="includes/media/images/gmp-logo.png" width="60" height="60" alt="">
+					</a>
+				</div>
+				<div class="uk-text-center">
+					<a href="https://www.ams.usda.gov/services/auditing/gap-ghp" target="_blank">
+						<img src="includes/media/images/gap-logo.png" width="70" height="70" alt="">
+					</a>
+				</div>
+				<div class="uk-text-center">
+					<a href="http://www.primusgfs.com/" style="cursor:pointer" target="_blank">
+						<img src="includes/media/images/primus-logo.png" width="120" alt="">
+					</a>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
@@ -306,6 +325,26 @@ a:active {
 		<div>
 			<h2>Production</h2>
 		<p class="">At our facility in Ithaca, NY, Glass House Farms has the capacity to produce an estimated 500-750K heads of Bibb lettuce every year. In addition, we can also grow Basil, Pac Choi, Sylvetta, Arugula, and Kitazawa Arugula lettuce. With the goal of distributing our produce to big-box stores across the nation, we are ensuring the highest quality of lettuce growth by utilizing a glass greenhouse with an automated controlled environment and nutrient-filled watering tables to make sure our lettuce is happy and healthy. </p>
+			<h5>Certifications:</h5>
+			<div style="" class="uk-grid uk-child-width-expand@m" uk-grid>
+				<div class="uk-text-center">
+					<a href="https://www.ams.usda.gov/services/auditing/gap-ghp" style="cursor:pointer" target="_blank">
+						<img src="includes/media/images/gmp-logo.png" width="60" height="60" alt="">
+					</a>
+				</div>
+				<div class="uk-text-center">
+					<a href="https://www.ams.usda.gov/services/auditing/gap-ghp" target="_blank">
+						<img src="includes/media/images/gap-logo.png" width="70" height="70" alt="">
+					</a>
+				</div>
+				<div class="uk-text-center">
+					<a href="http://www.primusgfs.com/" style="cursor:pointer" target="_blank">
+						<img src="includes/media/images/primus-logo.png" width="120" alt="">
+					</a>
+				</div>
+			</div>
+			<br>
+			<br>
 		</div>
 	</div>
 </div>
